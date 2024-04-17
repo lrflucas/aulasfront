@@ -1,0 +1,32 @@
+p{
+    color: red;
+}
+
+h1{
+    color: blue;
+}
+
+.corAzul{
+    color: blue;
+}
+
+#corVerde{
+    color: green;
+}
+
+#topo{
+    background-color: blue;
+}
+
+#conteudo{
+    background-color: red;
+}
+
+.produto{
+    background-color: gray;
+    margin: 10px;
+}
+
+#rodape{
+    background-color: green;
+}
