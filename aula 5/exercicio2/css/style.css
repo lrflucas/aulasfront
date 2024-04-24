@@ -1,0 +1,22 @@
+/* #conteudo{
+    /* border: 15px outset red; */
+/*    border-color: black red blueviolet pink;
+    border-width: 15px 10px 8px 3px;
+    border-style: solid;
+}
+
+#meunome{
+    border-color: red green yellow blue;
+    border-width: 15px 10px 8px 3px;
+    border-style: solid;
+} */
+
+.formatacao{
+    color: #B40404;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font: italic bold 30px arial, sans-serif;
+}
