@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background-color: #e6e6e6;
+}
+
+/* Layout */
+
+#cabecalho{
+    background-color: #f7b600;
+    padding: 30px;
+    text-align: center;
+}
+
+.principal{
+    float: left;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 800px;
+    padding: 15px;
+}
+
+#menu{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.area-brancapostagens{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.postagens{
+    width: 660px;
+    float: right;
+}
+
+.categorias{
+    background-color: #ccc;
+    color: #4e4e4e;
+    padding: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Formatações em geral */
+
+h1{
+    color: #4e4e4e;
+    font-size: 50px;
+}
+
+.branco{
+    color: white;
+}
+
+a{
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+.amarelo{
+    color: #f7b600;
+}
+
+#rodape{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+    background-color: #ccc;
+}
+
+.titulo{
+    color: #f7b600;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.texto{
+    text-align: center;
+    font-size: 18px;
+}
